@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi Humans!
+
+I'm checking out what git-hub is all about.
